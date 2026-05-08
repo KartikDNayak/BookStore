@@ -303,4 +303,4 @@ Passionate about building responsive and scalable web applications.
 
 ## 📄 License
 
-This project is for educational purposes. All rights reserved © 2026 Glowlogics.
+This project is for educational purposes. All rights reserved © 2026 Kartik Nayak.
