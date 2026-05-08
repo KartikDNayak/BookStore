@@ -291,9 +291,13 @@ http://localhost:8081
 
 ---
 
-## 👥 Authors
+# Author
 
-**Glowlogics Development Team**
+## Kartik Nayak
+
+Information Science Engineering Student  
+Java Full Stack Developer  
+Passionate about building responsive and scalable web applications.
 
 ---
 
